@@ -276,3 +276,4 @@ galleryHandler();
 productsHandler();t
 footerHandler();
 // https://github.com/Daweb-Schools/javascript-in-a-hurry-final/commit/f522794d107f3fa6c5750efbf8d44d5eb47d339a to see the project
+// to exit git log press "q"
